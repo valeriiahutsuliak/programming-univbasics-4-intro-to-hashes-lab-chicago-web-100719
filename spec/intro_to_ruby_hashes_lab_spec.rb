@@ -9,9 +9,6 @@ describe "working with hashes" do
         expect(new_hash).to eq({})
       end
     end
-def new_hash
-  {}
-end 
     describe "my_hash" do
       it "creates and returns a valid hash that contains key/value pairs of your choice" do
         expect(my_hash).to be_a(Hash)
