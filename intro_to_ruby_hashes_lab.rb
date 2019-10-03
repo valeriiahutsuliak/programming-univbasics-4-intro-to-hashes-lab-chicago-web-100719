@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
-  
+  actor = {
+    :name => 'Dwayne The Rock Johnson'
+  }
 end
 
 def pioneer
